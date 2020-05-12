@@ -1,0 +1,42 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+body{
+    background-image: url(https://image.freepik.com/vetores-gratis/ilustracao-de-banner-de-fundo-preto-luxo-com-pano-de-fundo-de-arte-deco-de-faixa-de-ouro_25989-206.jpg);
+    background-size:auto 100vh;
+    font-family: arial;
+    height: 100vh
+  }
+  
+  
+  .menu {
+    background-color: white;
+     }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  a{
+    color: red;
+    text-decoration: none;
+  }
+  a:haver{  text-decoration: underline;
+  }
+  .site-title{
+    color: blue;
+      text-align: center;
+  }
+  .site-subtitle{
+    color: yellow;
+      text-align: center;
+  }
+   
+  
+  
+  
